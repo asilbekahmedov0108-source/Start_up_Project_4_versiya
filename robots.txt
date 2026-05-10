@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asilbekahmedov0108-source.github.io/Start_up_Project_4_versiya/sitemap.xml
